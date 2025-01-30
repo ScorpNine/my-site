@@ -1,0 +1,18 @@
+body{
+    background-image: URL(image/BG.jpg);
+}
+
+.im{
+    width: 200px;
+    height: 200px;
+    margin-left: 1000px;
+    position: absolute;
+}
+
+h1{
+    color: rgb(234, 0, 255);
+}
+
+.Ml{
+    color: aquamarine;
+}
